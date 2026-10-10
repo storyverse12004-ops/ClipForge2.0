@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "Convert long videos into viral short-form 9:16 clips with AI timestamps, smart framing, burned-in captions, and multi-platform metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
